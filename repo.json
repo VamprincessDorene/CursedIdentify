@@ -1,0 +1,31 @@
+[
+{
+    "Author":  "Vamprincess Dorene",
+    "Name":  "Cursed Identify",
+    "InternalName":  "CursedIdentify",
+    "AssemblyVersion":  "1.0.4.0",
+    "TestingAssemblyVersion":  "1.0.4.0",
+    "Description":  "Companion plugin for the \u0027Cursed Identify (/study)\u0027 Penumbra emote mod.\n\nDuring the /study skit, at the moment of the magical-girl transformation, it asks Glamourer to equip the cursed neon-pink leotard (Yakaku Dogi, which the mod replaces with the Succubi Leotard) and to strip head/hands/legs/feet. When the skit resets, or you stop the emote, your previous outfit is restored exactly.\n\nRequires: Glamourer, and the Cursed Identify (/study) mod enabled in Penumbra.\nCommands: /cursed opens the window (enable toggle + test buttons); /cursed on | off apply or restore by hand; /cursed toggle enables/disables the swap.",
+    "Punchline":  "The cursed smallclothes really do lock onto you. Companion to the Cursed Identify (/study) emote mod.",
+    "ApplicableVersion":  "any",
+    "DalamudApiLevel":  15,
+    "RepoUrl":  "https://github.com/VamprincessDorene/CursedIdentify",
+    "Tags":  [
+                 "emote",
+                 "glamourer",
+                 "comedy"
+             ],
+    "CategoryTags":  [
+                         "other"
+                     ],
+    "IsHide":  false,
+    "IsTestingExclusive":  false,
+    "LoadPriority":  0,
+    "DownloadCount":  0,
+    "LastUpdate":  1790402648,
+    "DownloadLinkInstall":  "https://raw.githubusercontent.com/VamprincessDorene/CursedIdentify/main/latest.zip",
+    "DownloadLinkUpdate":  "https://raw.githubusercontent.com/VamprincessDorene/CursedIdentify/main/latest.zip",
+    "DownloadLinkTesting":  "https://raw.githubusercontent.com/VamprincessDorene/CursedIdentify/main/latest.zip",
+    "IconUrl":  ""
+}
+]
