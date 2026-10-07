@@ -3,8 +3,8 @@
     "Author":  "Vamprincess Dorene",
     "Name":  "Cursed Identify",
     "InternalName":  "CursedIdentify",
-    "AssemblyVersion":  "1.2.0.0",
-    "TestingAssemblyVersion":  "1.2.0.0",
+    "AssemblyVersion":  "1.3.0.0",
+    "TestingAssemblyVersion":  "1.3.0.0",
     "Description":  "Companion plugin for the \u0027Cursed Identify (/study)\u0027 Penumbra emote mod.\n\nDuring the /study skit, at the moment of the magical-girl transformation, it asks Glamourer to equip the cursed neon-pink leotard (Yakaku Dogi, which the mod replaces with the Succubi Leotard) and to strip head/hands/legs/feet. When the skit resets, or you stop the emote, your previous outfit is restored exactly.\n\nRequires: Glamourer, and the Cursed Identify (/study) mod enabled in Penumbra.\nCommands: /cursed opens the window (enable toggle + test buttons); /cursed on | off apply or restore by hand; /cursed toggle enables/disables the swap.\n\nVisor Flash (v1.2.0): typing /visor switches the \u0027Charm Shirt Halter (Rue + YAB)\u0027 mod between its Normal and Flash shirt bodies instantly - no refresh/redraw - by switching which part of the already-loaded model is drawn. The game\u0027s own visor toggle still happens. Optional: also switch the Penumbra option so synced players see it (causes a quick refresh). Needs the Charm Shirt Halter mod (v1.7.0+). Commands: /visor; /visorflash on | off | normal | flash | toggle (no argument opens the window).",
     "Punchline":  "The cursed smallclothes really do lock onto you, and /visor flashes the Charm Shirt Halter. Companion to the Cursed Identify (/study) and Charm Shirt Halter mods.",
     "ApplicableVersion":  "any",
@@ -23,10 +23,10 @@
     "IsTestingExclusive":  false,
     "LoadPriority":  0,
     "DownloadCount":  0,
-    "LastUpdate":  1791359797,
-    "DownloadLinkInstall":  "https://raw.githubusercontent.com/VamprincessDorene/CursedIdentify/main/latest.zip",
-    "DownloadLinkUpdate":  "https://raw.githubusercontent.com/VamprincessDorene/CursedIdentify/main/latest.zip",
-    "DownloadLinkTesting":  "https://raw.githubusercontent.com/VamprincessDorene/CursedIdentify/main/latest.zip",
+    "LastUpdate":  1791360173,
+    "DownloadLinkInstall":  "https://raw.githubusercontent.com/YOUR_GITHUB_NAME/CursedIdentify/main/latest.zip",
+    "DownloadLinkUpdate":  "https://raw.githubusercontent.com/YOUR_GITHUB_NAME/CursedIdentify/main/latest.zip",
+    "DownloadLinkTesting":  "https://raw.githubusercontent.com/YOUR_GITHUB_NAME/CursedIdentify/main/latest.zip",
     "IconUrl":  ""
 }
 ]
